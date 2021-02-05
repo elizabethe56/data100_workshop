@@ -4,4 +4,4 @@ Hi! My name is Elizabeth.  I am from Loudoun County in Northern Virginia.  I am 
 
 ### Index of Assignments for DATA100 Wicked Problems 
 
-1. [Intro Challenge Problem](https://elizabethe56.github.io/data100_workshop/ChallengeProblem.md)
+1. [Intro Challenge Problem](ChallengeProblem.md)
