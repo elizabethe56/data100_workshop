@@ -1,4 +1,3 @@
 # Intro
 
-This is the first project for Wicked Problems
-
+intro ok cool
