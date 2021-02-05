@@ -1,3 +1,3 @@
 # Intro Challenge Problem
 
-![what](ChalProbPlot.png "A Squiggly Line Between Squares")
+![Plot](ChalProbPlot.png "A Squiggly Line Between Squares")
