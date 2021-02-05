@@ -1,2 +1,2 @@
 # Intro Challenge Problem
-nice
+![challenge graph][ChalProbPlot.png]
