@@ -13,4 +13,5 @@ At first glance, the shapes of the maps look different, especially Map 3 from th
 
 It is interesting to consider how the different databases collect their data.  GADM does not state where they get their data, but HDX gets their data from submitted data that is then reviewed and verified, and geoBoundaries collected the the longitudes and latitudes of each administrative boundary, then contacted each authority to ascertain where each boundary lied locally.  Short of actually visiting each district, the geoBoundaries method seems the most in depth and thourough.  
 
-### 
+### Map 4 - Uganda with Details A and B
+![Map4](uga_triple_plot.png "Uganda with Details A and B")
