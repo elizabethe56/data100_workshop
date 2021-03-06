@@ -7,6 +7,6 @@
 ![image](uga_adm1_bar.png)
 
 ### Population Map - First Subdivisions, 3-D
-
+![gif](uganda.gif)
 
 
