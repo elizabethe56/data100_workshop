@@ -7,7 +7,7 @@ Hi! My name is Elizabeth.  I am from Loudoun County in Northern Virginia.  I am 
 ### Projects
 1. [Intro Challenge Problem](https://elizabethe56.github.io/data100_workshop/ChallengeProblem.html)
 2. [Projecting, Plotting and Labelling Administrative Subdivisions](https://elizabethe56.github.io/data100_workshop/Project1.html)
-
+3. [Spacial Population Modeling](https://elizabethe56.github.io/data100_workshop/Project2.html)
 
 ### Reflections
 1. [Reflection #1](https://elizabethe56.github.io/data100_workshop/Reflection1.html)
