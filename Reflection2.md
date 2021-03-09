@@ -1,4 +1,4 @@
-# Reflection 2
+# Reflection #2
 
 In high school, measurement was done with rulers and stopwatches.  In the crudest of ways, we measured the speed of bouncy balls and boiling temperatures and density.  But in the “real world,” everything is far more complicated.  Everything is a data point, and no two-dimensional graph can encapsulate the complexity of the planet we call home.  Big Data takes all of these data points and puts them through algorithms that find correlations that no human could have put together.
 
