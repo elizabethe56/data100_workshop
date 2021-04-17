@@ -53,4 +53,5 @@
 
 ### Assessment
 
-Each of the difference plots have a clear average of 0, showing that all three plots are very similar in accuracy.  The plot with using the means of the covariates, however, likely has the best result.  There is a large amount of error in the capital, Kampala, however the 3D plot demonstrates that there is little error throughout the whole country, which cannot be said for the other two plots.
+Each of the difference plots have a clear average of 0, showing that all three plots are very similar in accuracy.  There is error in all of the plots, as expected, and is best shown through the 3D plots.  The 3D plot using the means of the covariates demonstrates the least amount of error of the three plots, so the plot using the means of the covariates likely has the best result.  
+
