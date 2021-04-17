@@ -42,7 +42,7 @@
 ![diff_means](diff_means_plot.png)
 ![diff_means_3D](diff_means_3D.png)
 
-### Log of Population (and Mean)
+### Log of Population
 
 ##### Predicted Population
 ![diff_logpop](pop_logpop_plot.png)
