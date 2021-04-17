@@ -51,5 +51,7 @@
 ![diff_logpop](diff_logpop_plot.png)
 ![diff_logpop_3D](diff_logpop_3D.png)
 
-### 
+### Assessment
+
+Each of the difference plots have a clear average of 0, showing that all three plots are very similar in accuracy.  The plot with using the means of the covariates, however, 
 
