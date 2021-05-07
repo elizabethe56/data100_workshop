@@ -16,3 +16,4 @@ Hi! My name is Elizabeth.  I am from Loudoun County in Northern Virginia.  I am 
 2. [Reflection #2](https://elizabethe56.github.io/data100_workshop/Reflection2.html)
 3. [Reflection #3](https://elizabethe56.github.io/data100_workshop/Reflection3.html)
 4. [Reflection #4](https://elizabethe56.github.io/data100_workshop/Reflection4.html)
+5. [Reflection #5](https://elizabethe56.github.io/data100_workshop/Reflection5.html)
