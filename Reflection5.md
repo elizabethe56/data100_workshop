@@ -1,4 +1,4 @@
-# Reflection 5
+# Reflection #5
 
 Data Science is a huge field that utilizes scientific methods, algorithms, and systems to collect information, interpret it and provide valuable insights and about that information.  Though data is often viewed as only numbers, data is can also be visualized as maps and images, as geospatial data.  With satellite imaging, we are able to pick apart nearly every square inch on the surface of the world.  Each square inch can then be translated from pixels to numbers, training and testing models to interpret what kind of natural or urban structures might be in that space.  This new, numerical data can then be interpreted to find urban and rural areas, rich and poor areas.  
 
